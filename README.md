@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=Typescript"/>
   <img src="https://img.shields.io/static/v1?label=reactjs&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluido&color=green&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=Em_Andamento&color=green&style=for-the-badge"/>
 </p>
 
 ---
@@ -17,6 +17,8 @@
 :small_blue_diamond: [Pré-requisitos](#-pré-requisitos)
 
 :small_blue_diamond: [Como execultar a aplicação](#-como-execultar-a-aplicação)
+
+:small_blue_diamond: [Casos de uso](#-casos-de-uso)
 
 :small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#-linguagens-dependencias-e-libs-utilizadas)
 
@@ -61,6 +63,12 @@ Depois inicie o projeto reactjs
 ```
 yarn start
 ```
+---
+
+## 📌 Casos de uso
+
+👍 Projeto inspirado no vídeo do youtube => https://www.youtube.com/watch?v=Uv4h8IJhQUg do Emerson Broga.
+
 ---
 
 ## 🛠 Linguagens, dependencias e libs utilizadas
